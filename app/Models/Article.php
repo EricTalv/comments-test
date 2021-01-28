@@ -8,4 +8,13 @@ use Illuminate\Database\Eloquent\Model;
 class Article extends Model
 {
     use HasFactory;
+
+
+    /**
+     *  See who this article belongs to
+     */
+    public function user()
+    {
+        return $this->belongsTo(User::class);
+    }
 }
