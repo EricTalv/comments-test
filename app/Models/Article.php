@@ -9,7 +9,6 @@ class Article extends Model
 {
     use HasFactory;
 
-
     /**
      *  See who this article belongs to
      */
