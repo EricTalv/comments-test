@@ -9,5 +9,7 @@
 
     <hr>
 
+    @comments(['model' => $article])
+
 
 @endsection
