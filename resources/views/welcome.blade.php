@@ -433,7 +433,7 @@
                         </svg>
                         <div class="ml-4 text-lg leading-7 font-semibold">
                             <a
-                                href="https://laravel.com/docs"
+                                href="{{ route('articles.index') }}"
                                 class="underline text-gray-900 dark:text-white">
                                 Article Index
                             </a>

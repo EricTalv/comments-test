@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34be7640-5b5a-4169-b36e-b3d6f606099a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/articles/index.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../crypto-portfolio" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../laravel-blog" afterDir="false" />
     </list>
@@ -172,7 +173,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611837301063</updated>
-      <workItem from="1611837302205" duration="886000" />
+      <workItem from="1611837302205" duration="1004000" />
     </task>
     <servers />
   </component>
