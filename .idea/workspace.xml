@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -12,6 +15,7 @@
   <component name="ChangeListManager">
     <list default="true" id="34be7640-5b5a-4169-b36e-b3d6f606099a" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/resources/views/articles/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/articles/show.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../crypto-portfolio" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../laravel-blog" afterDir="false" />
     </list>
@@ -173,7 +177,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611837301063</updated>
-      <workItem from="1611837302205" duration="1004000" />
+      <workItem from="1611837302205" duration="1689000" />
     </task>
     <servers />
   </component>
@@ -190,5 +194,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="385" y="158" width="670" height="676" key="search.everywhere.popup" timestamp="1611838984146">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="385" y="158" width="670" height="676" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1611838984146" />
   </component>
 </project>
