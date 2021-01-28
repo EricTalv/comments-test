@@ -22,7 +22,9 @@ class ArticleFactory extends Factory
     public function definition()
     {
         return [
-            //
+            'title' => $this->faker->word,
+            'excerpt' => $this->faker->paragraph(1, 1),
+            'body' => $this->faker->paragraph(20),
         ];
     }
 }
